@@ -11,13 +11,13 @@
           "Search Number": "1",
           "Search Type": "Public Records",
           "Status": "Completed",
-          "Details": ""
+          "Details": "null"
         },
         {
           "Search Number": "2",
           "Search Type": "Verification",
           "Status": "Pending",
-          "Details": ""
+          "Details": "null"
         },
         {
           "Search Number": "3",
@@ -29,7 +29,7 @@
           "Search Number": "4",
           "Search Type": "Social Security Trace",
           "Status": "Completed",
-          "Details": ""
+          "Details": "null"
         }
       ]
     },
@@ -44,7 +44,7 @@
           "Search Number": "5",
           "Search Type": "Public Records",
           "Status": "Pending",
-          "Details": ""
+          "Details": "null"
         },
         {
           "Search Number": "6",
@@ -56,13 +56,13 @@
           "Search Number": "7",
           "Search Type": "Drug Test",
           "Status": "Completed",
-          "Details": ""
+          "Details": "null"
         },
         {
           "Search Number": "8",
           "Search Type": "Social Security Trace",
           "Status": "Pending",
-          "Details": ""
+          "Details": "null"
         }
       ]
     },
@@ -83,7 +83,7 @@
           "Search Number": "10",
           "Search Type": "Verification",
           "Status": "Completed",
-          "Details": ""
+          "Details": "null"
         },
         {
           "Search Number": "11",
