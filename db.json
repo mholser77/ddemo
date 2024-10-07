@@ -2,10 +2,12 @@
 	"customers": [
 		{
 			"pin": "12345678",
+			"data": {
 			"name": "John Doe",
 			"email": "johndoe@example.com",
 			"completion_percent": 75,
 			"order_number": "12345",
+			}
 			"orders": [
 				{
 					"search_number": 1,
@@ -35,10 +37,12 @@
 		},
 		{
 			"pin": "98765432",
+			"data": {
 			"name": "Jane Smith",
 			"email": "janesmith@example.com",
 			"completion_percent": 50,
 			"order_number": "67890",
+			}
 			"orders": [
 				{
 					"search_number": 1,
@@ -68,10 +72,12 @@
 		},
 		{
 			"pin": "11122333",
+			"data": {
 			"name": "Alex Johnson",
 			"email": "alexjohnson@example.com",
 			"completion_percent": 85,
 			"order_number": "13579",
+			}
 			"orders": [
 				{
 					"search_number": 1,
