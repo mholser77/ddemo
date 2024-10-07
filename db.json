@@ -1,10 +1,13 @@
 {
   "customers": {
-      "pin": "12345678" {
+      "pin": "12345678" [ 
+    {
       "name": "John Doe",
       "email": "johndoe@example.com",
       "completion %": "75%",
       "Order Number": "12345",
+  }
+    ]
       "Orders": [
         {
           "Search Number": "1",
@@ -32,11 +35,16 @@
         }
       ]
     },
-      "pin": "98765432": {
+      "pin": "98765432" [ 
+  {
       "name": "Jane Smith",
       "email": "janesmith@example.com",
       "completion %": "50%",
       "Order Number": "67890",
+  ]
+}
+  
+  ]
       "Orders": [
         {
           "Search Number": "1",
@@ -64,11 +72,14 @@
         }
       ]
     },
-      "pin": "11122333": {
+      "pin": "11122333": [
+        {
       "name": "Alex Johnson",
       "email": "alexjohnson@example.com",
       "completion %": "85%",
       "Order Number": "13579",
+          ]
+        }   
       "Orders": [
         {
           "Search Number": "1",
