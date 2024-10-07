@@ -1,109 +1,109 @@
 {
-	"customers": [
-		{
-			"pin": "12345678",
-			"data": {
-			"name": "John Doe",
-			"email": "johndoe@example.com",
-			"completion_percent": 75,
-			"order_number": "12345",
-			}
-			"orders": [
-				{
-					"search_number": 1,
-					"search_type": "Public Records",
-					"status": "Completed",
-					"details": null
-				},
-				{
-					"search_number": 2,
-					"search_type": "Verification",
-					"status": "Pending",
-					"details": null
-				},
-				{
-					"search_number": 3,
-					"search_type": "Drug Test",
-					"status": "More Info Required",
-					"details": "We need a copy of the driver’s license."
-				},
-				{
-					"search_number": 4,
-					"search_type": "Social Security Trace",
-					"status": "Completed",
-					"details": null
-				}
-			]
-		},
-		{
-			"pin": "98765432",
-			"data": {
-			"name": "Jane Smith",
-			"email": "janesmith@example.com",
-			"completion_percent": 50,
-			"order_number": "67890",
-			}
-			"orders": [
-				{
-					"search_number": 1,
-					"search_type": "Public Records",
-					"status": "Pending",
-					"details": null
-				},
-				{
-					"search_number": 2,
-					"search_type": "Verification",
-					"status": "More Info Required",
-					"details": "We need confirmation of middle name."
-				},
-				{
-					"search_number": 3,
-					"search_type": "Drug Test",
-					"status": "Completed",
-					"details": null
-				},
-				{
-					"search_number": 4,
-					"search_type": "Social Security Trace",
-					"status": "Pending",
-					"details": null
-				}
-			]
-		},
-		{
-			"pin": "11122333",
-			"data": {
-			"name": "Alex Johnson",
-			"email": "alexjohnson@example.com",
-			"completion_percent": 85,
-			"order_number": "13579",
-			}
-			"orders": [
-				{
-					"search_number": 1,
-					"search_type": "Public Records",
-					"status": "More Info Required",
-					"details": "We need a previous address."
-				},
-				{
-					"search_number": 2,
-					"search_type": "Verification",
-					"status": "Completed",
-					"details": null
-				},
-				{
-					"search_number": 3,
-					"search_type": "Drug Test",
-					"status": "Pending",
-					"details": null
-				},
-				{
-					"search_number": 4,
-					"search_type": "Social Security Trace",
-					"status": "More Info Required",
-					"details": "We need a good contact phone number."
-				}
-			]
-		}
-	]
+  "customers": [
+    {
+      "pin": "12345678",
+      "data": {
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "completion_percent": 75,
+        "order_number": "12345"
+      },
+      "orders": [
+        {
+          "search_number": 1,
+          "search_type": "Public Records",
+          "status": "Completed",
+          "details": null
+        },
+        {
+          "search_number": 2,
+          "search_type": "Verification",
+          "status": "Pending",
+          "details": null
+        },
+        {
+          "search_number": 3,
+          "search_type": "Drug Test",
+          "status": "More Info Required",
+          "details": "We need a copy of the driver’s license."
+        },
+        {
+          "search_number": 4,
+          "search_type": "Social Security Trace",
+          "status": "Completed",
+          "details": null
+        }
+      ]
+    },
+    {
+      "pin": "98765432",
+      "data": {
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "completion_percent": 50,
+        "order_number": "67890"
+      },
+      "orders": [
+        {
+          "search_number": 1,
+          "search_type": "Public Records",
+          "status": "Pending",
+          "details": null
+        },
+        {
+          "search_number": 2,
+          "search_type": "Verification",
+          "status": "More Info Required",
+          "details": "We need confirmation of middle name."
+        },
+        {
+          "search_number": 3,
+          "search_type": "Drug Test",
+          "status": "Completed",
+          "details": null
+        },
+        {
+          "search_number": 4,
+          "search_type": "Social Security Trace",
+          "status": "Pending",
+          "details": null
+        }
+      ]
+    },
+    {
+      "pin": "11122333",
+      "data": {
+        "name": "Alex Johnson",
+        "email": "alexjohnson@example.com",
+        "completion_percent": 85,
+        "order_number": "13579"
+      },
+      "orders": [
+        {
+          "search_number": 1,
+          "search_type": "Public Records",
+          "status": "More Info Required",
+          "details": "We need a previous address."
+        },
+        {
+          "search_number": 2,
+          "search_type": "Verification",
+          "status": "Completed",
+          "details": null
+        },
+        {
+          "search_number": 3,
+          "search_type": "Drug Test",
+          "status": "Pending",
+          "details": null
+        },
+        {
+          "search_number": 4,
+          "search_type": "Social Security Trace",
+          "status": "More Info Required",
+          "details": "We need a good contact phone number."
+        }
+      ]
+    }
+  ]
 }
