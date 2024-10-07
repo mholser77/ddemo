@@ -6,24 +6,24 @@
         "name": "John Doe",
         "email": "johndoe@example.com",
         "completion_percent": 75,
-        "order_number": "12345"
+        "order_number": "12345",
         "search1": 1,
         "search1_type": "Public Records",
         "status1": "Completed",
-        "details1": null
+        "details1": null,
         "search2": 2,
         "search2_type": "Verification",
         "status2": "Pending",
-        "details2": null
+        "details2": null,
         "search3": 3,
         "search3_type": "Drug Test",
         "status3": "More Info Required",
-        "details3": "We need a copy of the driver’s license."
+        "details3": "We need a copy of the driver’s license.",
         "search4": 4,
         "search4_type": "Social Security Trace",
         "status4": "Completed",
         "details4": null
-        }
+      }
     },
     {
       "pin": "98765432",
@@ -31,24 +31,24 @@
         "name": "Jane Smith",
         "email": "janesmith@example.com",
         "completion_percent": 50,
-        "order_number": "67890"
+        "order_number": "67890",
         "search1": 1,
         "search1_type": "Public Records",
         "status1": "Pending",
-        "details1": null
+        "details1": null,
         "search2": 2,
         "search2_type": "Verification",
         "status2": "More Info Required",
-        "details2": "We need confirmation of middle name."
+        "details2": "We need confirmation of middle name.",
         "search3": 3,
         "search3_type": "Drug Test",
         "status3": "Completed",
-        "details3": null
-        "search4_number": 4,
+        "details3": null,
+        "search4": 4,
         "search4_type": "Social Security Trace",
         "status4": "Pending",
         "details4": null
-        }
+      }
     },
     {
       "pin": "11122333",
@@ -56,22 +56,24 @@
         "name": "Alex Johnson",
         "email": "alexjohnson@example.com",
         "completion_percent": 85,
-        "order_number": "13579"
+        "order_number": "13579",
         "search1": 1,
         "search1_type": "Public Records",
         "status1": "More Info Required",
-        "details1": "We need a previous address."
+        "details1": "We need a previous address.",
         "search2": 2,
         "search2_type": "Verification",
         "status2": "Completed",
-        "details2": null
+        "details2": null,
         "search3": 3,
         "search3_type": "Drug Test",
         "status3": "Pending",
-        "details3": null
+        "details3": null,
         "search4": 4,
         "search4_type": "Social Security Trace",
         "status4": "More Info Required",
         "details4": "We need a good contact phone number."
-        }
+      }
     }
+  ]
+}
