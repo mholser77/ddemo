@@ -10,7 +10,7 @@
         "search1": 1,
         "search1_type": "Public Records",
         "status1": "Completed",
-        "details1": null,
+        "details1": "Completed, no further action required.",
         "search2": 2,
         "search2_type": "Verification",
         "status2": "Pending",
@@ -22,7 +22,7 @@
         "search4": 4,
         "search4_type": "Social Security Trace",
         "status4": "Completed",
-        "details4": null
+        "details4": "Completed, no further action required."
       }
     },
     {
@@ -43,7 +43,7 @@
         "search3": 3,
         "search3_type": "Drug Test",
         "status3": "Completed",
-        "details3": null,
+        "details3": "Completed, no further action required.",
         "search4": 4,
         "search4_type": "Social Security Trace",
         "status4": "Pending",
@@ -64,7 +64,7 @@
         "search2": 2,
         "search2_type": "Verification",
         "status2": "Completed",
-        "details2": null,
+        "details2": "Completed, no further action required.",
         "search3": 3,
         "search3_type": "Drug Test",
         "status3": "Pending",
