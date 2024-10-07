@@ -24,7 +24,6 @@
         "status4": "Completed",
         "details4": null
         }
-      ]
     },
     {
       "pin": "98765432",
@@ -50,7 +49,6 @@
         "status4": "Pending",
         "details4": null
         }
-      ]
     },
     {
       "pin": "11122333",
@@ -76,5 +74,4 @@
         "status4": "More Info Required",
         "details4": "We need a good contact phone number."
         }
-      ]
     }
