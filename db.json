@@ -10,28 +10,28 @@
       },
       "orders": [
         {
-          "search_number": 1,
-          "search_type": "Public Records",
-          "status": "Completed",
-          "details": null
+          "search1": 1,
+          "search1_type": "Public Records",
+          "status1": "Completed",
+          "details1": null
         },
         {
-          "search_number": 2,
-          "search_type": "Verification",
-          "status": "Pending",
-          "details": null
+          "search2": 2,
+          "search2_type": "Verification",
+          "status2": "Pending",
+          "details2": null
         },
         {
-          "search_number": 3,
-          "search_type": "Drug Test",
-          "status": "More Info Required",
-          "details": "We need a copy of the driver’s license."
+          "search3": 3,
+          "search3_type": "Drug Test",
+          "status3": "More Info Required",
+          "details3": "We need a copy of the driver’s license."
         },
         {
-          "search_number": 4,
-          "search_type": "Social Security Trace",
-          "status": "Completed",
-          "details": null
+          "search4": 4,
+          "search4_type": "Social Security Trace",
+          "status4": "Completed",
+          "details4": null
         }
       ]
     },
@@ -45,28 +45,28 @@
       },
       "orders": [
         {
-          "search_number": 1,
-          "search_type": "Public Records",
-          "status": "Pending",
-          "details": null
+          "search1": 1,
+          "search1_type": "Public Records",
+          "status1": "Pending",
+          "details1": null
         },
         {
-          "search_number": 2,
-          "search_type": "Verification",
-          "status": "More Info Required",
-          "details": "We need confirmation of middle name."
+          "search2": 2,
+          "search2_type": "Verification",
+          "status2": "More Info Required",
+          "details2": "We need confirmation of middle name."
         },
         {
-          "search_number": 3,
-          "search_type": "Drug Test",
-          "status": "Completed",
-          "details": null
+          "search3": 3,
+          "search3_type": "Drug Test",
+          "status3": "Completed",
+          "details3": null
         },
         {
-          "search_number": 4,
-          "search_type": "Social Security Trace",
-          "status": "Pending",
-          "details": null
+          "search4_number": 4,
+          "search4_type": "Social Security Trace",
+          "status4": "Pending",
+          "details4": null
         }
       ]
     },
@@ -80,28 +80,28 @@
       },
       "orders": [
         {
-          "search_number": 1,
-          "search_type": "Public Records",
-          "status": "More Info Required",
-          "details": "We need a previous address."
+          "search1": 1,
+          "search1_type": "Public Records",
+          "status1": "More Info Required",
+          "details1": "We need a previous address."
         },
         {
-          "search_number": 2,
-          "search_type": "Verification",
-          "status": "Completed",
-          "details": null
+          "search2": 2,
+          "search2_type": "Verification",
+          "status2": "Completed",
+          "details2": null
         },
         {
-          "search_number": 3,
-          "search_type": "Drug Test",
-          "status": "Pending",
-          "details": null
+          "search3": 3,
+          "search3_type": "Drug Test",
+          "status3": "Pending",
+          "details3": null
         },
         {
-          "search_number": 4,
-          "search_type": "Social Security Trace",
-          "status": "More Info Required",
-          "details": "We need a good contact phone number."
+          "search4": 4,
+          "search4_type": "Social Security Trace",
+          "status4": "More Info Required",
+          "details4": "We need a good contact phone number."
         }
       ]
     }
