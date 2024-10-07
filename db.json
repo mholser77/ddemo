@@ -62,7 +62,8 @@
           "Status": "Pending",
           "Details": null
         }
-        },
+      ]
+    },
     "11122333": {
       "name": "Alex Johnson",
       "email": "alexjohnson@example.com",
@@ -79,7 +80,7 @@
           "Search Number": "2",
           "Search Type": "Verification",
           "Status": "Completed",
-          "Details": Null
+          "Details": null
         },
         {
           "Search Number": "3",
