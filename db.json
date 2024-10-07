@@ -1,6 +1,6 @@
 {
   "customers": {
-    "pin": "12345678": {
+    "12345678": {
       "name": "John Doe",
       "email": "johndoe@example.com",
       "completion %": "75%",
@@ -32,7 +32,7 @@
         }
       ]
     },
-     "pin": "98765432": {
+    "98765432": {
       "name": "Jane Smith",
       "email": "janesmith@example.com",
       "completion %": "50%",
@@ -66,4 +66,3 @@
     }
   }
 }
-
