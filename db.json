@@ -31,7 +31,8 @@
           "Search Number": "4",
           "Search Type": "Social Security Trace",
           "Status": "Completed",
-          "Details": "null"  
+          "Details": "null" 
+          ]
       },
     {
       "pin": "98765432",
@@ -64,7 +65,8 @@
           "Search Type": "Social Security Trace",
           "Status": "Pending",
           "Details": "null"
-        },
+          ]
       }
     }
+  }
   
